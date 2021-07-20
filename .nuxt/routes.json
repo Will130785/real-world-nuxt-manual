@@ -1,0 +1,16 @@
+[
+  {
+    "name": "fun",
+    "path": "/fun",
+    "component": "/Users/willconstable/Documents/Projects/real-world-nuxt-manual/pages/fun.vue",
+    "chunkName": "pages/fun",
+    "_name": "_1b9e6846"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/willconstable/Documents/Projects/real-world-nuxt-manual/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5baacc30"
+  }
+]
